@@ -1,2 +1,2 @@
 # mycode
-xem cailone
+print('Xem cailone cut nhanh')
